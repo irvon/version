@@ -1,4 +1,4 @@
-module github.com/issue9/version
+module github.com/irvon/version
 
 require (
 	github.com/issue9/assert v1.4.1
